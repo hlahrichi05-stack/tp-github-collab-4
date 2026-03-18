@@ -1,5 +1,4 @@
  """Module de calcul - Opération de base """
-
 def add(a, b):
     return a + b
 
